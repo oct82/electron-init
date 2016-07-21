@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engine-strict": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-prebuilt": "1.2.0"
+  }
+}
